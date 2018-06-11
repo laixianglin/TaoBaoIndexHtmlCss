@@ -7,7 +7,7 @@
     text-decoration: none;
     font-family: 'Arial';
 }
-  
+
 html,
 body {
     width: 100%;
@@ -79,7 +79,7 @@ body {
     background-size: 100% 100%;
     border: 1px solid black;
 }
-  
+
 .wrapper .top-nav-wrap .top-nav .xsjPic {
     background-image: url(img/add.ico)
 }
